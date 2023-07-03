@@ -7,3 +7,5 @@ npm i
 # to run devlopment server
 npm run dev 
 ```
+
+Project is deployed (here)[https://sanity-with-next.vercel.app] using Vercel
